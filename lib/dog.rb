@@ -15,5 +15,5 @@ lassie = Dog.new
 
 # 3. Define a Person in lib/person.rb
 
-def Person
+class Person
 end
