@@ -12,8 +12,3 @@ end
 fido = Dog.new
 snoopy = Dog.new
 lassie = Dog.new
-
-# 3. Define a Person in lib/person.rb
-
-class Person
-end
